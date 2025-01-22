@@ -1,4 +1,4 @@
-# CCS229BSCS3A-202425: Intelligent Systems Course Repository
+# CCS229-CS3A-2024-25: Intelligent Systems Course Repository
 
 Welcome to the **CCS229BSCS3A-202425** GitHub organization! This platform serves as the central repository for **Intelligent Systems**, a course offered to BSCS 3A students for the academic year 2024-2025. The repository will be used to host example code, collaborative projects, and learning materials while leveraging GitHub Education tools.
 
